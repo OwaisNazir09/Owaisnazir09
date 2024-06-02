@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Data structure and algorithms**
 
-- 💬 Ask me about **java , cpp, c and sql**
+- 💬 Ask me about **java ,html , css, javascript, cpp, c and sql**
 
 - 📫 How to reach me **owaisaalam38@gmail.com**
 
