@@ -1,36 +1,98 @@
 <h1 align="center">Hi 👋, I'm Owais Nazir</h1>
 <h3 align="center">Let's code together! 😎</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<p align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="400" alt="Coding" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=owaisaalam&label=Profile%20views&color=0e75b6&style=flat" alt="owaisaalam" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=owaisaalam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+  <a href="https://twitter.com/owaisaalam38" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/owaisaalam38?style=for-the-badge&logo=twitter" alt="Follow me on Twitter" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **React** and **Node.js**
-- 👯 I’m looking to collaborate on **Data Structures and Algorithms**
+---
+
+### 👨‍💻 About Me
+
+- 🌱 Currently learning **React** and **Node.js**
+- 👯 Looking to collaborate on **Data Structures and Algorithms**
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, C++, C, SQL, React, and Node.js**
-- 📫 How to reach me: [owaisaalam38@gmail.com](mailto:owaisaalam38@gmail.com)
+- 📫 Reach me at: [owaisaalam38@gmail.com](mailto:owaisaalam38@gmail.com)
 - ⚡ Fun fact: **People are more creative in the shower. When we take a warm shower, we experience an increased dopamine flow that makes us more creative.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/owais.nazir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="owais nazir" height="30" width="40" /></a>
-<a href="https://instagram.com/owais_eeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="owais_eeee" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/owais-nazir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" /></a>
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://fb.com/owais.nazir" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-owais.nazir-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/owais_eeee" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-owais_eeee-purple?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/owais-nazir/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-owais.nazir-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> </a>
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </p>
 
-<a href="https://www.buymeacoffee.com/owaisnazir" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+---
+
+### 💼 Featured Projects
+
+- **[Project One](https://github.com/owaisaalam/project-one)**: A brief description of what this project does.
+- **[Project Two](https://github.com/owaisaalam/project-two)**: Another project that showcases your skills.
+
+---
+
+### 📬 Get in Touch
+
+You can reach me via:
+
+- [Email](mailto:owaisaalam38@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/owais-nazir/)
+- [Twitter](https://twitter.com/owaisaalam38)
+
+---
+
+### ☕ Support My Work
+
+If you appreciate my work and want to support me, consider buying me a coffee:
+
+<a href="https://www.buymeacoffee.com/owaisnazir" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" />
+</a>
+
+---
+
+### 🎧 Spotify Now Playing
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=owaisaalam38&cover_image=true&theme=default)
+
+---
+
+Feel free to customize the links and descriptions to match your actual projects and profiles. This layout incorporates modern design elements and organizes information effectively to make your profile more engaging and professional.
+
+Let me know if you'd like further customization or assistance!
+::contentReference[oaicite:0]{index=0}
