@@ -18,9 +18,6 @@
 ---
 
 ### 👨‍💻 About Me
-
-- 🌱 Currently learning **React** and **Node.js**
-- 👯 Looking to collaborate on **Data Structures and Algorithms**
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, C++, C, SQL, React, and Node.js**
 - 📫 Reach me at: [owaisaalam38@gmail.com](mailto:owaisaalam38@gmail.com)
 - ⚡ Fun fact: **People are more creative in the shower. When we take a warm shower, we experience an increased dopamine flow that makes us more creative.**
@@ -84,15 +81,3 @@ If you appreciate my work and want to support me, consider buying me a coffee:
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" />
 </a>
 
----
-
-### 🎧 Spotify Now Playing
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=owaisaalam38&cover_image=true&theme=default)
-
----
-
-Feel free to customize the links and descriptions to match your actual projects and profiles. This layout incorporates modern design elements and organizes information effectively to make your profile more engaging and professional.
-
-Let me know if you'd like further customization or assistance!
-::contentReference[oaicite:0]{index=0}
