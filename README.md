@@ -16,10 +16,3 @@
 </p>
 
 ---
-
-### 👨‍💻 About Me
-- 💬 Ask me about **Java, HTML, CSS, JavaScript, C++, C, SQL, React, and Node.js**
-- 📫 Reach me at: [owaisaalam38@gmail.com](mailto:owaisaalam38@gmail.com)
-- ⚡ Fun fact: **People are more creative in the shower. When we take a warm shower, we experience an increased dopamine flow that makes us more creative.**
-
----
